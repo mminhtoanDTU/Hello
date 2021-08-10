@@ -6,8 +6,8 @@
 
 > Personal email: [mminhtoan771@gmail.com](mailto:mminhtoan771@gmail.com)\
 > Student email: [leminhtoan1.dtu.edu.vn](mailto:leminhtoan1.dtu.edu.vn)\
-> Facebook: <a href="https://www.facebook.com/minhtoan.dev"> Minh Toàn </a>
-> Website: <a href="https://toandev.tk"> Minh Toàn </a>
+> Facebook: <a href="https://www.facebook.com/minhtoan.dev"> Minh Toàn </a>\
+> Website: <a href="https://toandev.tk"> Minh Toàn </a>\
 > 
 <h2>Languages and Tools </h2>
 
